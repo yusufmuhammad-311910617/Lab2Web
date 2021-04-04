@@ -7,6 +7,7 @@
 
 
 1. Lakukan  eksperimen  dengan  mengubah  dan  menambah  properti  dan  nilai  pada  kode  CSS dengan mengacu pada CSS Cheat Sheetyang diberikan pada file terpisah dari   modul ini.
+<hr>
 
 - Tampilan Pada HTML
 
@@ -15,6 +16,7 @@
 
 
 
+<hr>
 
 - Tampilan Pada Browser
 
@@ -22,6 +24,7 @@
 
 
 
+<hr>
 
 - Tampilan Pada HTML
 
@@ -29,6 +32,7 @@
 
 
 
+<hr>
 
 - Tampilan Pada Browser
  
@@ -36,6 +40,7 @@
 
 
 
+<hr>
 
 - Tampilan Pada HTML 
 
@@ -43,6 +48,7 @@
 
 
 
+<hr>
 
 - Tampilan pada browser
  
@@ -51,13 +57,14 @@
 
 
 2. Apa   perbedaan   pendeklarasian   CSS   elemen h1   {...}dengan #intro   h1   {...}?   berikan penjelasannya!
-
->> KALO H1 {...} memberi style secara langsung dari internal, sedangkan #intro h1 {...} digunakan dari eksternal pada css untuk mengubah style.
-
+```
+KALO H1 {...} memberi style secara langsung dari internal, sedangkan #intro h1 {...} digunakan dari eksternal pada css untuk mengubah style.
+```
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan  inline CSS  pada elemen   yang   sama.   Deklarasi   manakah   yang   akan   ditampilkan   pada   browser?   Berikan penjelasan dan contohnya!
-
->> Berdasarkan uji coba saya yang akan tampil adalah  yang internal.
+```
+Berdasarkan uji coba saya yang akan tampil adalah  yang internal.
+```
 
 - Tampilan HTML Internal
 
