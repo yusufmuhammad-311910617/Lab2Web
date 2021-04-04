@@ -15,9 +15,11 @@
 
 
 
--Tampilan Pada Browser
+
+- Tampilan Pada Browser
 
 ![1 1 1](https://user-images.githubusercontent.com/81587959/113517545-c363ab00-95aa-11eb-98ad-c8b10be92c13.PNG)
+
 
 
 
@@ -27,15 +29,19 @@
 
 
 
+
 - Tampilan Pada Browser
  
 ![BB](https://user-images.githubusercontent.com/81587959/113517913-19d1e900-95ad-11eb-8cd1-1aaf1d08071a.PNG)
 
 
 
+
 - Tampilan Pada HTML 
 
 ![BBB](https://user-images.githubusercontent.com/81587959/113517922-2a825f00-95ad-11eb-92a6-3b8593ef5740.PNG)
+
+
 
 
 - Tampilan pada browser
