@@ -16,7 +16,6 @@
 
 
 
-<hr>
 
 - Tampilan Pada Browser
 
@@ -32,7 +31,7 @@
 
 
 
-<hr>
+
 
 - Tampilan Pada Browser
  
@@ -48,7 +47,7 @@
 
 
 
-<hr>
+
 
 - Tampilan pada browser
  
